@@ -1,0 +1,26 @@
+# Python Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE Configuration Folders (Visual Studio Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+
+# Logs and Databases
+*.log
+*.sqlite
