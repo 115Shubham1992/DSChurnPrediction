@@ -251,7 +251,7 @@ print(requests.post("http://127.0.0.1:8000/predict", json=payload).json())
 
 https://github.com/115Shubham1992/DSChurnPrediction
 
-## Google drive demo video link
+## One drive demo video link
 
 https://nagarro-my.sharepoint.com/my?id=/personal/shubham_vijay_nagarro_com/Documents/NAGPDSAssingment&viewid=d14422e4-1c69-4f65-8b3e-53730d53e468
 
