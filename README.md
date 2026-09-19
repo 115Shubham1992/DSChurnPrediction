@@ -246,3 +246,12 @@ print(requests.post("http://127.0.0.1:8000/predict", json=payload).json())
   They are retained and documented rather than removed.
 - No monitoring for data drift; a production deployment would need periodic
   retraining and performance tracking.
+  
+## Github repo link
+
+https://github.com/115Shubham1992/DSChurnPrediction
+
+## Google drive demo video link
+
+https://nagarro-my.sharepoint.com/my?id=/personal/shubham_vijay_nagarro_com/Documents/NAGPDSAssingment&viewid=d14422e4-1c69-4f65-8b3e-53730d53e468
+
